@@ -45,9 +45,11 @@ To complete this analysis, the following steps were performed:
 
 The following photo shows the trends for MercadoLibre's closing stock price and search traffic.
 
-![]()
+![](https://github.com/ThomasBrierton/Forecasting_Net_Profit/blob/main/Photos/Screen%20Shot%202022-03-20%20at%208.25.28%20PM.png)
 
+The following photo shows MercadoLibre's forecasted total sales for the next quarter.
 
+![](https://github.com/ThomasBrierton/Forecasting_Net_Profit/blob/main/Photos/Screen%20Shot%202022-03-20%20at%208.24.52%20PM.png)
 
 ---
 
